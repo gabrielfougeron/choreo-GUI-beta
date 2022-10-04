@@ -1,0 +1,39 @@
+html {
+    background-color: #F1F1F1;
+}
+body {
+    background-color: #F1F1F1;
+    overflow-x: hidden;
+    position: relative;
+  }
+.content {
+  max-width: 1220px;
+  margin: auto;
+}
+.LeftTabBtn{
+    text-align: center
+}
+.TopTab{
+    display: none;
+    width:480px;
+}
+#CommandBody{ 
+    max-width: 610px;
+}
+#AnimationAndMenuBlock{ 
+    max-width: 610px;
+}
+#Python_textarea {
+    resize: vertical;
+    font-family: Consolas,monaco,monospace;     
+    font-size: 14px;     
+    line-height:1.0;
+    background-color: #F1F1F1;
+    color : #000000!important;
+    /* height:480px; */
+  }
+  .in_text_btn{
+    background:none;
+    border:none;
+    color:#494E52;
+  }
